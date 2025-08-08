@@ -1,0 +1,79 @@
+#main{
+    background-color:white;
+    text-align: center;
+    min-height: 100vh;
+    border-radius: 20px;
+
+}
+#submitBtn{
+    text-align: center;
+    justify-items: center;
+}
+#btn{
+    background-color: white;
+    border-style:groove;
+    border-radius: 5px;
+    width: 1.5cm;
+}
+#totel{
+    margin:5px;;
+    padding:20px;
+    border-radius:7px;
+}
+#form{
+    justify-items: center
+}
+#namee1{
+    text-align:start;
+    
+    color: rgb(59, 59, 63);
+
+    width: 300px;
+}
+textarea{
+    height: 4cm;
+    width: 8.5cm;
+    border-radius: 5px;
+}
+input{
+    height: 25px;
+    width: 300px;
+    border-radius: 5px;
+}
+#footer{
+    text-decoration: none;
+    color: black;
+}
+#footer:hover{
+    color:blue;
+}
+#header{
+    background-color:  rgb(0, 0, 0);
+    justify-content:space-around;
+    display: flex;
+    gap:20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+#hBtn{
+    text-decoration: none;
+    font: bold;
+    color: aliceblue;
+}
+#submit{
+    text-decoration: none;
+    color: rgb(59, 59, 63) ;
+}
+#submit:hover{
+    color: red;
+}
+#hBtn:hover{
+    color: blanchedalmond;
+}
+#contact_me{
+    text-align: center;
+}
+#sbmt{
+    border-style: none;
+    background-color: white;
+}

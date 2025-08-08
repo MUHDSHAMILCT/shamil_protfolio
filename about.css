@@ -1,0 +1,56 @@
+#header{
+    background-color:  rgb(0, 0, 0);
+    justify-content:flex-end;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex: 1;
+}
+#hBtn{
+    text-decoration: none;
+    font: bold;
+    color: aliceblue;
+    margin-right: 50px;
+}
+#hBtn:hover{
+color: rgb(228, 164, 81);
+}
+#body{
+    background-color: aqua;
+    width: 1px;
+}
+#home{
+    background-color:rgb(10, 4, 46) ;
+    border-radius: 20px;
+    text-align: center;
+    min-height: 100vh;
+}
+#name_div{
+    background-color:rgb(0, 0, 0) ;
+    /* justify-items: start; */
+    color: rgb(196, 26, 26);
+    padding: 10px;
+}
+#hd_name{
+    display: flex;
+}
+#content{
+    background-color: rgb(10, 4, 46);
+    margin-top: 20px;
+    justify-content: space-around;
+    color: white;
+}
+#about_me{
+    text-align: start;
+    margin: 1cm;
+    margin-top: 40px;
+}
+#para{
+    padding: 20px;
+    margin: 30px;
+    text-align: start;
+    margin-top: 30px;
+}
+body{
+    margin: 0px;
+}

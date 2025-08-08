@@ -1,0 +1,117 @@
+section {
+    margin: 20px;
+    background-color:navajowhite ;
+    padding: 20px;
+}
+#about_me{
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    border-color: white;
+}
+#profile{
+    border-radius: 1000cm;
+    border-style:hidden;
+    height: 10cm;
+    align-items: center;
+}
+#about_div{
+    background-color: white;
+}
+#header{
+    background-color:  rgb(0, 0, 0);
+    justify-content:end;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex: 1;
+}
+#hd_name{
+    display: flex;
+}
+#name_div{
+    background-color:rgb(0, 0, 0) ;
+    justify-items: start;
+    color: white;
+    padding: 10px;
+}
+#hBtn{
+    text-decoration: none;
+    font: bold;
+    color: aliceblue;
+    margin-right:50px ;
+}
+#hBtn:hover{
+    color: blanchedalmond;
+}
+#home{
+    background-color: rgb(10, 4, 46);
+    min-height: 100vh;
+}
+#body_h{
+    background-color: rgb(10, 4, 46);
+    gap: 20px;
+    align-items: center;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    min-height: 100vh;
+
+}
+#name{
+    border-radius: 50px;
+    height: 80%;
+    color: white;
+    padding: 100px;
+}
+#image{
+    background-color: rgb(10, 4, 46);
+    text-align: center;
+    flex: 3;
+}
+img{
+    border-radius: 20px;
+}
+
+/* project */
+
+
+#main_div{
+    background-color: rgb(10, 4, 46);
+    min-height: 100vh;
+    display: flex;
+    color: white;
+}
+#project_img1{
+    flex: 3;
+}
+#project_img2{
+    padding: 20px;
+    flex: 3;
+}
+#project_img3{
+    padding: 20px;
+    flex: 3;
+}
+img{
+    height: 3cm;
+    width: 4cm;
+}
+#sectionn1{
+    background-color: rgb(10, 4, 46) ;
+    display: flex;
+    color: white;
+}
+#sectionn2{
+    background-color: rgb(10, 4, 46) ;
+    display: flex;
+    color: white;
+}
+section{
+    border-radius: 20px;
+    background-color: rgba(4, 70, 70, 0.76);
+    flex: 1;
+}
+body{
+    margin: 0px;
+}
